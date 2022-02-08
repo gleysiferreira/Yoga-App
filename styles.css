@@ -92,12 +92,13 @@
     text-align: center;
     color: #000000;
   }
+
+  .img-link {
+    margin: 0 18px;
+  }
   
   .container {
     text-align: center;
     margin: 18px auto 80px auto;
   }
   
-  .img-link {
-    margin: 0 18px;
-  }
