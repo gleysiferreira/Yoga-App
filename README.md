@@ -1,6 +1,6 @@
 # Yoga APP
 
-<img src="./assets/login.png" alt="Logo Yoga">
+<img src="./assets/appyoga.png" alt="Logo Yoga">
 
 > Resultado do Projeto Yoga Login.
 ### Ajustes e melhorias
